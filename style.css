@@ -1,0 +1,90 @@
+#container {
+    background-color: skyblue;
+    display: grid ;
+    place-items: center;
+}
+
+.titulo {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+
+.parrafo {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.hinchada {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+.anthem {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+.Libertadores {
+    display: grid ;
+    place-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+
+.lista {
+    display: grid ;
+    place-items: center;
+}
+
+footer {
+    display: grid ;
+    place-items: center;
+}
+
+.imagen1 {
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border: 2px solid black;
+    
+}
+
+.imagen2 {
+    margin-left: 20px;
+    margin-bottom: 20px; 
+    border: 2px solid black;
+} 
+
+.squad {
+    font-size: 30px;
+    font-weight: bold;
+    display: grid;
+    place-items: center;
+
+}
+
+ul {
+    font-weight: bold;
+    display: grid;
+}
+
+li {
+    list-style-image:url(sc/variante-de-balon-de-futbol.png);
+    
+}
+
+footer {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.copyright {
+    display: grid ;
+    place-items: center;
+}    
+
+.web {
+    margin-left: 20px;
+    margin-top: 15px;
+}
